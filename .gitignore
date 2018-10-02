@@ -1,0 +1,5 @@
+.vscode/
+**/sitemap/
+**/__pycache__
+.coverage
+.eslintrc.json
